@@ -30,7 +30,8 @@ Upon completion, you’ll be able to use Numba to compile and launch CUDA kernel
 ## Tools, Libraries, and Frameworks Used
 * Numba
 
-
+## DISCLAIMER ❗️
+The uploaded solutions are only for the Authors reference. Even though you can use part of this code for your work
 
 
 
