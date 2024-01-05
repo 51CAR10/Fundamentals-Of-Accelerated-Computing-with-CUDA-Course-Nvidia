@@ -35,4 +35,4 @@ Upon completion, you’ll be able to use Numba to compile and launch CUDA kernel
 
 
 
-Author:[Ansah Randy Kofi]
+Author:[Ansah Randy Kofi](https://www.linkedin.com/in/randy-kofi-ansah)
