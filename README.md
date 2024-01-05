@@ -4,4 +4,5 @@ CUDA® Python provides Cython/Python wrappers for CUDA driver and runtime APIs;
 
 <img height="100" src="">
 |COURSE|                        |STATUS|
+|:-----:|-------------------------------|:-----:|
 |Fundamentals Of Accelerated Computing with CUDA Python 🐍 |✅|
